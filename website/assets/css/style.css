@@ -1,0 +1,24 @@
+body{
+    background: #fafafa;
+    border-width: 2.5rem;
+    border-style: solid;
+    border-color: black;
+
+}
+
+hr{
+    opacity: 10%;
+}
+
+.tagline.position-absolute {
+
+    text-align: center;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+ 
+.tagline.bg-light.w-10{
+    
+}
+
